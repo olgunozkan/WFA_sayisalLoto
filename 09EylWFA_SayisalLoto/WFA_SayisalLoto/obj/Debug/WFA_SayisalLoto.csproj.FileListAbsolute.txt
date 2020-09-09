@@ -1,0 +1,14 @@
+C:\Users\The Best\source\repos\githubDown_WFA_SayisalLoto\WFA_SayisalLoto-master\WFA_SayisalLoto\bin\Debug\WFA_SayisalLoto.exe.config
+C:\Users\The Best\source\repos\githubDown_WFA_SayisalLoto\WFA_SayisalLoto-master\WFA_SayisalLoto\bin\Debug\WFA_SayisalLoto.exe
+C:\Users\The Best\source\repos\githubDown_WFA_SayisalLoto\WFA_SayisalLoto-master\WFA_SayisalLoto\bin\Debug\WFA_SayisalLoto.pdb
+C:\Users\The Best\source\repos\githubDown_WFA_SayisalLoto\WFA_SayisalLoto-master\WFA_SayisalLoto\bin\Debug\MetroFramework.Design.dll
+C:\Users\The Best\source\repos\githubDown_WFA_SayisalLoto\WFA_SayisalLoto-master\WFA_SayisalLoto\bin\Debug\MetroFramework.dll
+C:\Users\The Best\source\repos\githubDown_WFA_SayisalLoto\WFA_SayisalLoto-master\WFA_SayisalLoto\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\The Best\source\repos\githubDown_WFA_SayisalLoto\WFA_SayisalLoto-master\WFA_SayisalLoto\obj\Debug\WFA_SayisalLoto.csprojAssemblyReference.cache
+C:\Users\The Best\source\repos\githubDown_WFA_SayisalLoto\WFA_SayisalLoto-master\WFA_SayisalLoto\obj\Debug\WFA_SayisalLoto.Form1.resources
+C:\Users\The Best\source\repos\githubDown_WFA_SayisalLoto\WFA_SayisalLoto-master\WFA_SayisalLoto\obj\Debug\WFA_SayisalLoto.Properties.Resources.resources
+C:\Users\The Best\source\repos\githubDown_WFA_SayisalLoto\WFA_SayisalLoto-master\WFA_SayisalLoto\obj\Debug\WFA_SayisalLoto.csproj.GenerateResource.cache
+C:\Users\The Best\source\repos\githubDown_WFA_SayisalLoto\WFA_SayisalLoto-master\WFA_SayisalLoto\obj\Debug\WFA_SayisalLoto.csproj.CoreCompileInputs.cache
+C:\Users\The Best\source\repos\githubDown_WFA_SayisalLoto\WFA_SayisalLoto-master\WFA_SayisalLoto\obj\Debug\WFA_SayisalLoto.csproj.CopyComplete
+C:\Users\The Best\source\repos\githubDown_WFA_SayisalLoto\WFA_SayisalLoto-master\WFA_SayisalLoto\obj\Debug\WFA_SayisalLoto.exe
+C:\Users\The Best\source\repos\githubDown_WFA_SayisalLoto\WFA_SayisalLoto-master\WFA_SayisalLoto\obj\Debug\WFA_SayisalLoto.pdb
